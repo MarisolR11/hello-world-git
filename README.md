@@ -1,0 +1,2 @@
+# hello-world-git
+This repo is so that I can learn the basics of Git through a "Hello World!" assignment.
